@@ -11,6 +11,7 @@
 ### 常用网站
 - **[BT1207](https://bt1207.link/)**
 - **[阿里云搜](https://www.upyunso.com/)**
+- **[蓝奏云](https://dlj.bz/lzy/)**
 - **[谷歌镜像](https://kgithub.com/Heroic-Studio/Google-Mirrors)**
 - **[谷歌翻译](https://translate.google.com/?hl=zh-CN)**
 - **[图床](https://www.imagehub.cc/)**
