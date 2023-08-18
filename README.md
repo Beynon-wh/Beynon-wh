@@ -1,9 +1,10 @@
 # <h1 align="center">[每日悦图](https://github.com/Beynon-wh/Beynon-wh/blob/main/001/list.md)</h1>
 
-[![每日悦图](https://s1.imagehub.cc/images/2023/07/12/xiuren-anran.jpeg)](https://github.com/Beynon-wh/Beynon-wh/blob/main/001/list.md)
+[![不忘初心](https://s1.imagehub.cc/images/2023/08/18/bwcx.png)](https://github.com/Beynon-wh/Beynon-wh/blob/main/001/list.md)
 
 <!--
 <h1 align="center">学习永远在路上</h1>
+https://s1.imagehub.cc/images/2023/07/12/xiuren-anran.jpeg
 https://s1.imagehub.cc/images/2023/06/10/nana.jpeg
 https://s1.imagehub.cc/images/2023/05/16/No.4447_01p.jpeg
 https://s1.imagehub.cc/images/2023/03/23/5bcccaad91c3c0c9b8c546f774441570.jpeg
