@@ -17,6 +17,7 @@
 - **[阿里云搜](https://www.upyunso.com/)**
 - **[蓝奏云](https://dlj.bz/lzy/)**
 - **[系统镜像](http://www.msdn3.com/index.html)**
+- **[文件互传](https://deershare.com/send)**
 - **[图床](https://www.imagehub.cc/)**
 - **[LOGO生成器](https://www.logoly.pro/#/)**
 - **[网址库](https://www.wangzhiku.com/)**
