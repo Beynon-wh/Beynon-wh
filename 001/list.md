@@ -1,8 +1,8 @@
 <h1 align="center">Learning is always on the way</h1>
 
 ### 科学上网
-- **[白鲸加速器](https://www.bjch123.com/?mid=3002)**
 - **[机场推荐](https://github.com/hwanz/SSR-V2ray-Trojan-vpn)**
+- **[白鲸加速器](https://www.bjch123.com/?mid=3002)**
 - **[APKPure商店](https://apkpure.com/cn/)**
 - **[Clash_Win](https://github.com/Fndroid/clash_for_windows_pkg/releases)**
 - **[Clash_Android](https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.12/cfa-2.5.12-premium-universal-release.apk)**
